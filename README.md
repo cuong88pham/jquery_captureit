@@ -8,7 +8,7 @@ var main_content = new $.captureit({
   ignore: []
 });
 ```
-## Some Screenshots from website of my friends :P
+## Some Screenshots from website of my friends and some news portal :P
 
 ![alt tag](http://imageshack.com/a/img537/5135/Y9SIAA.png)
 ![alt tag](http://imageshack.com/a/img661/1440/rra0oZ.png)
